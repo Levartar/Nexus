@@ -318,47 +318,47 @@
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 317
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 318
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 319
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 320
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 321
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 322
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 323
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 324
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 325
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 326
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 327
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 328
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 329
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 330
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Idle.uexp" 331
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 332
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 333
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 334
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 335
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 336
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 337
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 338
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Run.uexp" 339
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 340
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 341
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 342
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_AnimBP.uexp" 343
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/GI_GameInstance.uasset" 344
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/GI_GameInstance.uexp" 345
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 346
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Fire.uexp" 347
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 348
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPersonFire_Montage.uexp" 349
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/BaseMaterial.uasset" 350
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/BaseMaterial.uexp" 351
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 352
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uexp" 353
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.ubulk" 354
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 355
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uexp" 356
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/EnemyDamage_Interface.uasset" 357
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/EnemyDamage_Interface.uexp" 358
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 359
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uexp" 360
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 320
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 321
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 322
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Idle.uexp" 323
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 324
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 325
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 326
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 327
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 328
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 329
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 330
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Run.uexp" 331
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 332
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 333
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 334
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_AnimBP.uexp" 335
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/GI_GameInstance.uasset" 336
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/GI_GameInstance.uexp" 337
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 338
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPerson_Fire.uexp" 339
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 340
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Animations/FirstPersonFire_Montage.uexp" 341
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/BaseMaterial.uasset" 342
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/BaseMaterial.uexp" 343
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 344
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uexp" 345
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.ubulk" 346
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 347
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uexp" 348
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/EnemyDamage_Interface.uasset" 349
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/EnemyDamage_Interface.uexp" 350
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 351
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uexp" 352
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/HUD_Assets/EnergyBar_Fill.uasset" 353
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/HUD_Assets/EnergyBar_Fill.uexp" 354
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/HUD_Assets/EnergyBar_Background.uasset" 355
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/HUD_Assets/EnergyBar_Background.uexp" 356
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/HUD_Assets/Healthbar_Fill.uasset" 357
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/HUD_Assets/Healthbar_Fill.uexp" 358
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/WB_PlayerHUD.uasset" 359
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/WB_PlayerHUD.uexp" 360
 "E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 361
 "E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Textures/FirstPersonCrosshair.uexp" 362
 "E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 363
@@ -373,843 +373,849 @@
 "E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/Interact.uexp" 372
 "E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/WB_DeathScreen.uasset" 373
 "E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/WB_DeathScreen.uexp" 374
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/Glow.uasset" 375
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/Glow.uexp" 376
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/weaponGrip.uasset" 377
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/weaponGrip.uexp" 378
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/Weapon_Metal.uasset" 379
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/Weapon_Metal.uexp" 380
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon_PhysicsAsset.uasset" 381
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon_PhysicsAsset.uexp" 382
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon_Skeleton.uasset" 383
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon_Skeleton.uexp" 384
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon.uasset" 385
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon.uexp" 386
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 387
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uexp" 388
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 389
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 390
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 391
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 392
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 393
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 394
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 395
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uexp" 396
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 397
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 398
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 399
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 400
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 401
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 402
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 403
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 404
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 405
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 406
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 407
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 408
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 409
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 410
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 411
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 412
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 413
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uexp" 414
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 415
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uexp" 416
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 417
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 418
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 419
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uexp" 420
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 421
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 422
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 423
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 424
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 425
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 426
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 427
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 428
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 429
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 430
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 431
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 432
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 433
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 434
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 435
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 436
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 437
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp" 438
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 439
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 440
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 441
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uexp" 442
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 443
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 444
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 445
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 446
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 447
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 448
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 449
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 450
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 451
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 452
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 453
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 454
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 455
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 456
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 457
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 458
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 459
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 460
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 461
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 462
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 463
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 464
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 465
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 466
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 467
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 468
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 469
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 470
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 471
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 472
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uasset" 473
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uexp" 474
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 475
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 476
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uasset" 477
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uexp" 478
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 479
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 480
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 481
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 482
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 483
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 484
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 485
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uexp" 486
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 487
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 488
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 489
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 490
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 491
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 492
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 493
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uexp" 494
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 495
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uexp" 496
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/M_Master_RadialBeam.uasset" 497
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/M_Master_RadialBeam.uexp" 498
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 499
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 500
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 501
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uexp" 502
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 503
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 504
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 505
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 506
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uasset" 507
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uexp" 508
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uasset" 509
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uexp" 510
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uasset" 511
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uexp" 512
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 513
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uexp" 514
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 515
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uexp" 516
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 517
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uexp" 518
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/FX/NiagaraSystems/NS_BulletTrail_3.uasset" 519
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/FX/NiagaraSystems/NS_BulletTrail_3.uexp" 520
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 521
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uexp" 522
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 523
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 524
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 525
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 526
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Plane.ubulk" 527
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Plane.uasset" 528
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Plane.uexp" 529
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/Textures/T_Circle_1.ubulk" 530
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/Textures/T_Circle_1.uasset" 531
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/Textures/T_Circle_1.uexp" 532
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/M_Basic_Particle.uasset" 533
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/M_Basic_Particle.uexp" 534
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uasset" 535
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uexp" 536
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uasset" 537
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uexp" 538
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 539
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 540
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RandomQuaternion.uasset" 541
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RandomQuaternion.uexp" 542
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uasset" 543
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uexp" 544
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uasset" 545
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uexp" 546
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 547
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uexp" 548
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 549
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 550
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 551
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 552
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/FX/NiagaraSystems/NS_Impact_2.uasset" 553
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/FX/NiagaraSystems/NS_Impact_2.uexp" 554
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Blueprints/BP_Impact_2.uasset" 555
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Blueprints/BP_Impact_2.uexp" 556
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Glow.uasset" 557
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Glow.uexp" 558
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Bullet_1.ubulk" 559
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Bullet_1.uasset" 560
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Bullet_1.uexp" 561
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Blueprints/BP_Projectile_3.uasset" 562
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Blueprints/BP_Projectile_3.uexp" 563
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/Weapons_Base.uasset" 564
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/Weapons_Base.uexp" 565
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 566
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 567
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 568
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 569
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 570
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 571
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 572
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 573
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 574
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 575
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 576
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 577
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 578
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 579
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 580
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 581
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 582
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 583
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 584
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 585
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 586
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 587
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 588
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 589
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 590
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 591
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 592
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 593
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 594
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 595
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 596
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 597
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 598
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 599
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 600
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 601
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 602
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 603
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uexp" 604
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 605
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uexp" 606
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.ubulk" 607
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 608
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uexp" 609
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_Player.uasset" 610
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_Player.uexp" 611
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/WB_WeaponHUD.uasset" 612
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/WB_WeaponHUD.uexp" 613
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 614
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uexp" 615
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/BP_SaveGame.uasset" 616
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/BP_SaveGame.uexp" 617
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 618
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uexp" 619
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 620
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 621
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 622
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 623
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.ubulk" 624
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 625
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 626
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 627
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 628
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 629
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 630
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 631
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 632
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 633
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 634
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 635
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 636
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.ubulk" 637
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 638
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 639
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 640
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 641
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 642
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 643
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 644
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 645
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 646
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 647
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 648
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 649
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 650
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 651
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 652
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 653
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 654
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 655
-"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 656
-"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 657
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 658
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 659
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 660
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 661
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 662
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 663
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 664
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 665
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 666
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 667
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 668
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 669
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 670
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 671
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 672
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 673
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 674
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 675
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 676
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 677
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 678
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 679
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 680
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 681
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 682
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 683
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 684
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 685
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 686
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 687
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 688
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 689
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 690
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 691
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 692
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 693
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 694
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 695
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 696
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 697
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 698
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 699
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 700
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 701
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 702
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 703
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 704
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 705
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 706
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 707
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 708
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 709
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 710
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 711
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 712
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 713
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 714
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 715
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 716
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 717
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 718
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 719
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 720
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 721
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 722
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 723
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 724
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 725
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 726
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 727
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 728
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 729
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 730
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 731
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 732
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 733
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 734
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 735
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 736
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 737
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 738
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 739
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 740
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 741
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 742
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 743
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 744
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 745
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 746
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 747
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 748
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 749
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 750
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 751
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 752
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 753
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 754
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 755
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 756
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 757
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 758
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 759
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 760
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 761
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 762
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 763
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 764
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 765
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 766
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 767
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 768
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 769
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 770
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 771
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 772
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 773
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 774
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 775
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 776
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 777
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 778
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 779
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 780
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 781
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 782
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 783
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 784
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 785
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 786
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 787
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 788
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 789
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 790
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 791
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 792
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 793
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 794
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 795
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 796
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 797
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 798
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 799
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 800
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 801
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 802
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 803
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 804
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 805
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 806
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 807
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 808
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 809
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 810
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 811
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 812
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 813
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 814
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 815
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 816
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 817
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 818
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 819
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 820
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 821
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 822
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 823
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 824
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 825
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 826
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 827
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 828
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 829
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 830
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 831
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 832
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 833
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 834
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 835
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 836
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 837
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 838
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 839
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 840
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 841
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 842
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 843
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 844
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 845
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 846
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 847
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 848
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 849
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 850
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 851
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 852
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 853
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 854
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 855
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 856
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 857
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 858
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 859
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 860
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 861
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 862
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 863
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 864
-"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 865
-"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 866
-"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 867
-"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 868
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 869
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 870
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 871
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 872
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 873
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 874
-"../../../Engine/Content/Maps/Entry.uexp" 875
-"../../../Engine/Content/Maps/Entry.umap" 876
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/BaseMetal.uasset" 877
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/BaseMetal.uexp" 878
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_l.ubulk" 879
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_l.uasset" 880
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_l.uexp" 881
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_l.ubulk" 882
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_l.uasset" 883
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_l.uexp" 884
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_r.ubulk" 885
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_r.uasset" 886
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_r.uexp" 887
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_r.ubulk" 888
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_r.uasset" 889
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_r.uexp" 890
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GatePillars.ubulk" 891
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GatePillars.uasset" 892
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GatePillars.uexp" 893
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_r.ubulk" 894
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_r.uasset" 895
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_r.uexp" 896
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_l.ubulk" 897
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_l.uasset" 898
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_l.uexp" 899
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_BP.uasset" 900
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_BP.uexp" 901
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Cube.ubulk" 902
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Cube.uasset" 903
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Cube.uexp" 904
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_LinklessCube.ubulk" 905
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_LinklessCube.uasset" 906
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_LinklessCube.uexp" 907
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/LinearColor/MultiplyLinearColor.uasset" 908
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/LinearColor/MultiplyLinearColor.uexp" 909
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Noise_DistortedCaustic.ubulk" 910
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Noise_DistortedCaustic.uasset" 911
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Noise_DistortedCaustic.uexp" 912
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 913
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uexp" 914
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.ubulk" 915
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uasset" 916
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uexp" 917
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_sA_Aura.uasset" 918
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_sA_Aura.uexp" 919
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Aura_1.uasset" 920
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Aura_1.uexp" 921
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 922
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 923
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 924
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 925
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_Health.ubulk" 926
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_Health.uasset" 927
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_Health.uexp" 928
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Float.uasset" 929
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Float.uexp" 930
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uasset" 931
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uexp" 932
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 933
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uexp" 934
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 935
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uexp" 936
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_Master_Fresnel.uasset" 937
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_Master_Fresnel.uexp" 938
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Fresnel.uasset" 939
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Fresnel.uexp" 940
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 941
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uexp" 942
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/LerpQuaternion.uasset" 943
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/LerpQuaternion.uexp" 944
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/FN_FirstFrame_Numeric.uasset" 945
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/FN_FirstFrame_Numeric.uexp" 946
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/InterpolateOverTime_V3_.uasset" 947
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/InterpolateOverTime_V3_.uexp" 948
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DeriveThirdOrthogonalVector.uasset" 949
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DeriveThirdOrthogonalVector.uexp" 950
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/MakeVectorsOrthogonal.uasset" 951
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/MakeVectorsOrthogonal.uexp" 952
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_UpdateMeshOrientationMode.uasset" 953
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_UpdateMeshOrientationMode.uexp" 954
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndYVectors.uasset" 955
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndYVectors.uexp" 956
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 957
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uexp" 958
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/V2/SmoothLerpOverTime.uasset" 959
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/V2/SmoothLerpOverTime.uexp" 960
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TwoVectorsToQuaternion.uasset" 961
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TwoVectorsToQuaternion.uexp" 962
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 963
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 964
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_OrientVectorCount.uasset" 965
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_OrientVectorCount.uexp" 966
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 967
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uexp" 968
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uasset" 969
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uexp" 970
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uasset" 971
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uexp" 972
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uasset" 973
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uexp" 974
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndZVectors.uasset" 975
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndZVectors.uexp" 976
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 977
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uexp" 978
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Orientation/V3/UpdateMeshOrientation.uasset" 979
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Orientation/V3/UpdateMeshOrientation.uexp" 980
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.ubulk" 981
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uasset" 982
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uexp" 983
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.ubulk" 984
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uasset" 985
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uexp" 986
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Beam_01.ubulk" 987
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Beam_01.uasset" 988
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Beam_01.uexp" 989
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Ray_5.ubulk" 990
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Ray_5.uasset" 991
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Ray_5.uexp" 992
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_AdditiveScrollNiagara.uasset" 993
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_AdditiveScrollNiagara.uexp" 994
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Scroll_1.uasset" 995
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Scroll_1.uexp" 996
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_ss.ubulk" 997
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_ss.uasset" 998
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_ss.uexp" 999
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Fx/NiagaraSystems/NS_Pickup_3.uasset" 1000
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Fx/NiagaraSystems/NS_Pickup_3.uexp" 1001
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Pickups/BP_HealthPickup.uasset" 1002
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Pickups/BP_HealthPickup.uexp" 1003
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1004
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1005
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1006
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1007
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1008
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1009
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1010
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1011
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1012
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1013
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1014
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1015
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1016
-"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 1017
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1018
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1019
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1020
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1021
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1022
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1023
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1024
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1025
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/E_Key.uasset" 1026
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/E_Key.uexp" 1027
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/InteractPromptWidget.uasset" 1028
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/InteractPromptWidget.uexp" 1029
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Node.ubulk" 1030
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Node.uasset" 1031
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Node.uexp" 1032
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/BP_Node_2.uasset" 1033
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/BP_Node_2.uexp" 1034
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_TeleportZone.uasset" 1035
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_TeleportZone.uexp" 1036
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_INFO.uasset" 1037
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_INFO.uexp" 1038
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/CornerCube.ubulk" 1039
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/CornerCube.uasset" 1040
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/CornerCube.uexp" 1041
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube.ubulk" 1042
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube.uasset" 1043
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube.uexp" 1044
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Pillar.ubulk" 1045
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Pillar.uasset" 1046
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Pillar.uexp" 1047
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_Ramp.ubulk" 1048
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_Ramp.uasset" 1049
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_Ramp.uexp" 1050
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/T_Fire_Tiled_D.ubulk" 1051
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/T_Fire_Tiled_D.uasset" 1052
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/T_Fire_Tiled_D.uexp" 1053
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/Disintigration_Effect.uasset" 1054
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/Disintigration_Effect.uexp" 1055
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/EnemyMetal.uasset" 1056
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/EnemyMetal.uexp" 1057
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/Disintigrationinstance.uasset" 1058
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/Disintigrationinstance.uexp" 1059
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Glow.uasset" 1060
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Glow.uexp" 1061
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Meshes/Nexus_Bots_Mesh_Goon.ubulk" 1062
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Meshes/Nexus_Bots_Mesh_Goon.uasset" 1063
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Meshes/Nexus_Bots_Mesh_Goon.uexp" 1064
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI_Healthbar.uasset" 1065
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI_Healthbar.uexp" 1066
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/QueryPatrolLocation.uasset" 1067
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/QueryPatrolLocation.uexp" 1068
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Enemy_BB.uasset" 1069
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Enemy_BB.uexp" 1070
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_1.ubulk" 1071
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_1.uasset" 1072
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_1.uexp" 1073
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise00.ubulk" 1074
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise00.uasset" 1075
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise00.uexp" 1076
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise000.ubulk" 1077
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise000.uasset" 1078
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise000.uexp" 1079
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Beam_01.ubulk" 1080
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Beam_01.uasset" 1081
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Beam_01.uexp" 1082
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_ABScrollNiagara.uasset" 1083
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_ABScrollNiagara.uexp" 1084
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkProjectile.uasset" 1085
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkProjectile.uexp" 1086
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 1087
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uexp" 1088
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 1089
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uexp" 1090
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 1091
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uexp" 1092
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/VortexForce.uasset" 1093
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/VortexForce.uexp" 1094
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_AdditiveScrollNiagara.uasset" 1095
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_AdditiveScrollNiagara.uexp" 1096
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Projectile_1.uasset" 1097
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Projectile_1.uexp" 1098
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_Simple_Bram.uasset" 1099
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_Simple_Bram.uexp" 1100
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector2D.uasset" 1101
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector2D.uexp" 1102
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 1103
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uexp" 1104
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 1105
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uexp" 1106
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 1107
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uexp" 1108
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 1109
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uexp" 1110
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterLifeCycle.uasset" 1111
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterLifeCycle.uexp" 1112
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere.ubulk" 1113
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere.uasset" 1114
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere.uexp" 1115
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 1116
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uexp" 1117
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 1118
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uexp" 1119
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uasset" 1120
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uexp" 1121
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Masks/ConeMask.uasset" 1122
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Masks/ConeMask.uexp" 1123
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 1124
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uexp" 1125
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 1126
-"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uexp" 1127
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/CurlNoiseForce.uasset" 1128
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/CurlNoiseForce.uexp" 1129
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 1130
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 1131
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/UniformRangedLinearColor.uasset" 1132
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/UniformRangedLinearColor.uexp" 1133
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere_2.ubulk" 1134
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere_2.uasset" 1135
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere_2.uexp" 1136
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Muzzle.uasset" 1137
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Muzzle.uexp" 1138
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_3.ubulk" 1139
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_3.uasset" 1140
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_3.uexp" 1141
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkProjectile_3.uasset" 1142
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkProjectile_3.uexp" 1143
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Projectile_3.uasset" 1144
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Projectile_3.uexp" 1145
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Hit3.uasset" 1146
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Hit3.uexp" 1147
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Projectile_1.ubulk" 1148
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Projectile_1.uasset" 1149
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Projectile_1.uexp" 1150
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_Tail.ubulk" 1151
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_Tail.uasset" 1152
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_Tail.uexp" 1153
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Tail_1.uasset" 1154
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Tail_1.uexp" 1155
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Trail_3.ubulk" 1156
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Trail_3.uasset" 1157
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Trail_3.uexp" 1158
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise02.ubulk" 1159
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise02.uasset" 1160
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise02.uexp" 1161
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Tail_3.uasset" 1162
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Tail_3.uexp" 1163
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/SystemLocation.uasset" 1164
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/SystemLocation.uexp" 1165
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemLifeCycle.uasset" 1166
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemLifeCycle.uexp" 1167
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkTail_3.uasset" 1168
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkTail_3.uexp" 1169
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Projectile3_Small.uasset" 1170
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Projectile3_Small.uexp" 1171
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_CameraShake01.uasset" 1172
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_CameraShake01.uexp" 1173
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_Projectile_3_Small.uasset" 1174
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_Projectile_3_Small.uexp" 1175
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/TaskShootAtTarget.uasset" 1176
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/TaskShootAtTarget.uexp" 1177
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Ranged_Enemy_BT.uasset" 1178
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Ranged_Enemy_BT.uexp" 1179
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Ranged_Enemy_Controller.uasset" 1180
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Ranged_Enemy_Controller.uexp" 1181
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Goon_Enemy_BP_new.uasset" 1182
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Goon_Enemy_BP_new.uexp" 1183
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Bridge.ubulk" 1184
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Bridge.uasset" 1185
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Bridge.uexp" 1186
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_SmallCube.ubulk" 1187
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_SmallCube.uasset" 1188
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_SmallCube.uexp" 1189
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_EndCube.ubulk" 1190
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_EndCube.uasset" 1191
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_EndCube.uexp" 1192
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Collisions.ubulk" 1193
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Collisions.uasset" 1194
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Collisions.uexp" 1195
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/NodeCube.ubulk" 1196
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/NodeCube.uasset" 1197
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/NodeCube.uexp" 1198
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Pylon.ubulk" 1199
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Pylon.uasset" 1200
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Pylon.uexp" 1201
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_T-Junction.ubulk" 1202
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_T-Junction.uasset" 1203
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_T-Junction.uexp" 1204
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube_Chamfer.ubulk" 1205
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1206
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 1207
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Spawner.uasset" 1208
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Spawner.uexp" 1209
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel_BuiltData.ubulk" 1210
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel_BuiltData.uasset" 1211
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel_BuiltData.uexp" 1212
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel.uexp" 1213
-"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel.umap" 1214
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 375
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 377
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 378
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 379
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 380
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 381
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 382
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 383
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 384
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 385
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 386
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 387
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 388
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 389
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 390
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 391
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 392
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 393
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 394
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 395
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 396
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 397
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 398
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 399
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 400
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 401
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 402
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 403
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 404
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 405
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 406
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 407
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 408
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 409
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 410
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 411
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 412
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uexp" 413
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 414
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uexp" 415
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.ubulk" 416
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 417
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uexp" 418
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_Player.uasset" 419
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_Player.uexp" 420
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/Glow.uasset" 421
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/Glow.uexp" 422
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/weaponGrip.uasset" 423
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/weaponGrip.uexp" 424
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/Weapon_Metal.uasset" 425
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Weapon/Weapon_Metal.uexp" 426
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon_PhysicsAsset.uasset" 427
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon_PhysicsAsset.uexp" 428
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon_Skeleton.uasset" 429
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon_Skeleton.uexp" 430
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon.uasset" 431
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/NexusBlaster/Weapon.uexp" 432
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 433
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uexp" 434
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 435
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 436
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 437
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 438
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 439
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 440
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 441
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uexp" 442
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 443
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 444
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 445
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 446
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 447
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 448
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 449
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 450
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 451
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 452
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 453
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 454
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 455
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 456
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 457
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 458
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 459
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uexp" 460
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 461
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uexp" 462
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 463
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 464
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 465
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uexp" 466
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 467
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 468
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 469
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 470
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 471
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 472
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 473
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 474
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 475
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 476
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 477
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 478
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 479
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 480
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 481
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 482
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 483
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp" 484
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 485
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 486
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 487
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uexp" 488
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 489
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 490
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 491
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 492
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 493
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 494
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 495
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 496
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 497
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 498
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 499
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 500
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 501
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 502
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 503
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 504
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 505
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 506
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 507
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 508
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 509
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 510
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 511
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 512
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 513
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 514
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 515
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 516
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 517
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 518
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uasset" 519
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/UpdateBeam.uexp" 520
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 521
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 522
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uasset" 523
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uexp" 524
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 525
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 526
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 527
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 528
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 529
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 530
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 531
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uexp" 532
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 533
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 534
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 535
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 536
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 537
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 538
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 539
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uexp" 540
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 541
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uexp" 542
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/M_Master_RadialBeam.uasset" 543
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/M_Master_RadialBeam.uexp" 544
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 545
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 546
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 547
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uexp" 548
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 549
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 550
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 551
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 552
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uasset" 553
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uexp" 554
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uasset" 555
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AngleUnitConverter.uexp" 556
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uasset" 557
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/CalculateRandomPointInConeSphereIntersection.uexp" 558
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 559
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uexp" 560
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 561
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uexp" 562
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 563
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uexp" 564
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/FX/NiagaraSystems/NS_BulletTrail_3.uasset" 565
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/FX/NiagaraSystems/NS_BulletTrail_3.uexp" 566
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 567
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uexp" 568
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 569
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 570
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 571
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 572
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Plane.ubulk" 573
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Plane.uasset" 574
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Plane.uexp" 575
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/Textures/T_Circle_1.ubulk" 576
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/Textures/T_Circle_1.uasset" 577
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/Textures/T_Circle_1.uexp" 578
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/M_Basic_Particle.uasset" 579
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Materials/M_Basic_Particle.uexp" 580
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uasset" 581
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_MeshOrientationOptions.uexp" 582
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uasset" 583
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uexp" 584
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 585
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 586
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RandomQuaternion.uasset" 587
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RandomQuaternion.uexp" 588
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uasset" 589
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uexp" 590
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uasset" 591
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uexp" 592
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 593
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uexp" 594
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 595
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 596
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 597
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 598
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/FX/NiagaraSystems/NS_Impact_2.uasset" 599
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/FX/NiagaraSystems/NS_Impact_2.uexp" 600
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Blueprints/BP_Impact_2.uasset" 601
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Blueprints/BP_Impact_2.uexp" 602
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Glow.uasset" 603
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Glow.uexp" 604
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Bullet_1.ubulk" 605
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Bullet_1.uasset" 606
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Meshes/SM_Bullet_1.uexp" 607
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Blueprints/BP_Projectile_3.uasset" 608
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_ShootingVfxPack/Blueprints/BP_Projectile_3.uexp" 609
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/Weapons_Base.uasset" 610
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Weapons/Weapons_Base.uexp" 611
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 612
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uexp" 613
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/BP_SaveGame.uasset" 614
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/BP_SaveGame.uexp" 615
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 616
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uexp" 617
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 618
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 619
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 620
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 621
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 622
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 623
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 624
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 625
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 626
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 627
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 628
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 629
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.ubulk" 630
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 631
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 632
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 633
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 634
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 635
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 636
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 637
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 638
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 639
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 640
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 641
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 642
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.ubulk" 643
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 644
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 645
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 646
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 647
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 648
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 649
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 650
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 651
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 652
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 653
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 654
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 655
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 656
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 657
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 658
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 659
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 660
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 661
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 662
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 663
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 664
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 665
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 666
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 667
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 668
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 669
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 670
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 671
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 672
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 673
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 674
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 675
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 676
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 677
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 678
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 679
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 680
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 681
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 682
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 683
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 684
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 685
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 686
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 687
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 688
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 689
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 690
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 691
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 692
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 693
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 694
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 695
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 696
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 697
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 698
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 699
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 700
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 701
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 702
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 703
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 704
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 705
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 706
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 707
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 708
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 709
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 710
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 711
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 712
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 713
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 714
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 715
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 716
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 717
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 718
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 719
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 720
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 721
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 722
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 723
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 724
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 725
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 726
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 727
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 728
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 729
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 730
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 731
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 732
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 733
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 734
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 735
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 736
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 737
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 738
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 739
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 740
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 741
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 742
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 743
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 744
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 745
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 746
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 747
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 748
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 749
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 750
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 751
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 752
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 753
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 754
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 755
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 756
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 757
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 758
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 759
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 760
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 761
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 762
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 763
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 764
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 765
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 766
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 767
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 768
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 769
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 770
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 771
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 772
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 773
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 774
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 775
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 776
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 777
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 778
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 779
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 780
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 781
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 782
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 783
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 784
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 785
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 786
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 787
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 788
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 789
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 790
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 791
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 792
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 793
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 794
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 795
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 796
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 797
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 798
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 799
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 800
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 801
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 802
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 803
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 804
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 805
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 806
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 807
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 808
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 809
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 810
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 811
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 812
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 813
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 814
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 815
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 816
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 817
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 818
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 819
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 820
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 821
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 822
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 823
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 824
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 825
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 826
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 827
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 828
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 829
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 830
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 831
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 832
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 833
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 834
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 835
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 836
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 837
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 838
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 839
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 840
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 841
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 842
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 843
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 844
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 845
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 846
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 847
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 848
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 849
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 850
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 851
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 852
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 853
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 854
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 855
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 856
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 857
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 858
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 859
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 860
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 861
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 862
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 863
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 864
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 865
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 866
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 867
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 868
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 869
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 870
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 871
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 872
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 873
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 874
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 875
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 876
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 877
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 878
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/BaseMetal.uasset" 879
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/BaseMetal.uexp" 880
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_l.ubulk" 881
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_l.uasset" 882
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_l.uexp" 883
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_l.ubulk" 884
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_l.uasset" 885
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_l.uexp" 886
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_r.ubulk" 887
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_r.uasset" 888
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_r.uexp" 889
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_r.ubulk" 890
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_r.uasset" 891
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_OuterPanel_r.uexp" 892
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GatePillars.ubulk" 893
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GatePillars.uasset" 894
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GatePillars.uexp" 895
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_r.ubulk" 896
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_r.uasset" 897
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_r.uexp" 898
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_l.ubulk" 899
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_l.uasset" 900
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_GateSliders_InnerPanel_l.uexp" 901
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_BP.uasset" 902
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Gate/Gate_BP.uexp" 903
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Cube.ubulk" 904
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Cube.uasset" 905
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Cube.uexp" 906
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_LinklessCube.ubulk" 907
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_LinklessCube.uasset" 908
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_LinklessCube.uexp" 909
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/LinearColor/MultiplyLinearColor.uasset" 910
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/LinearColor/MultiplyLinearColor.uexp" 911
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Noise_DistortedCaustic.ubulk" 912
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Noise_DistortedCaustic.uasset" 913
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Noise_DistortedCaustic.uexp" 914
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 915
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uexp" 916
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.ubulk" 917
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uasset" 918
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseFurry.uexp" 919
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_sA_Aura.uasset" 920
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_sA_Aura.uexp" 921
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Aura_1.uasset" 922
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Aura_1.uexp" 923
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 924
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 925
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 926
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 927
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_Health.ubulk" 928
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_Health.uasset" 929
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_Health.uexp" 930
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Float.uasset" 931
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Float.uexp" 932
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uasset" 933
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uexp" 934
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 935
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uexp" 936
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 937
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uexp" 938
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_Master_Fresnel.uasset" 939
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_Master_Fresnel.uexp" 940
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Fresnel.uasset" 941
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Fresnel.uexp" 942
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 943
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uexp" 944
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/LerpQuaternion.uasset" 945
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/LerpQuaternion.uexp" 946
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/FN_FirstFrame_Numeric.uasset" 947
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/FN_FirstFrame_Numeric.uexp" 948
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/InterpolateOverTime_V3_.uasset" 949
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/InterpolateOverTime_V3_.uexp" 950
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DeriveThirdOrthogonalVector.uasset" 951
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DeriveThirdOrthogonalVector.uexp" 952
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/MakeVectorsOrthogonal.uasset" 953
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/MakeVectorsOrthogonal.uexp" 954
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_UpdateMeshOrientationMode.uasset" 955
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_UpdateMeshOrientationMode.uexp" 956
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndYVectors.uasset" 957
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndYVectors.uexp" 958
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 959
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uexp" 960
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/V2/SmoothLerpOverTime.uasset" 961
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/V2/SmoothLerpOverTime.uexp" 962
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TwoVectorsToQuaternion.uasset" 963
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/TwoVectorsToQuaternion.uexp" 964
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 965
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 966
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_OrientVectorCount.uasset" 967
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_OrientVectorCount.uexp" 968
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 969
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uexp" 970
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uasset" 971
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uexp" 972
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uasset" 973
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uexp" 974
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uasset" 975
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uexp" 976
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndZVectors.uasset" 977
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndZVectors.uexp" 978
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 979
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uexp" 980
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Orientation/V3/UpdateMeshOrientation.uasset" 981
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Orientation/V3/UpdateMeshOrientation.uexp" 982
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.ubulk" 983
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uasset" 984
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_1.uexp" 985
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.ubulk" 986
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uasset" 987
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_NoiseCloud_2.uexp" 988
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Beam_01.ubulk" 989
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Beam_01.uasset" 990
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Beam_01.uexp" 991
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Ray_5.ubulk" 992
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Ray_5.uasset" 993
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/Textures/T_Ray_5.uexp" 994
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_AdditiveScrollNiagara.uasset" 995
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/M_AdditiveScrollNiagara.uexp" 996
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Scroll_1.uasset" 997
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Materials/MI_Scroll_1.uexp" 998
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_ss.ubulk" 999
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_ss.uasset" 1000
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Pickup_ss.uexp" 1001
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Fx/NiagaraSystems/NS_Pickup_3.uasset" 1002
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_PickupSet_1/Fx/NiagaraSystems/NS_Pickup_3.uexp" 1003
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Pickups/BP_HealthPickup.uasset" 1004
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Pickups/BP_HealthPickup.uexp" 1005
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1006
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1007
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1008
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1009
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1010
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1011
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1012
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1013
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1014
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1015
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1016
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1017
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1018
+"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 1019
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1020
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1021
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1022
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1023
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1024
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1025
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1026
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1027
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/E_Key.uasset" 1028
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/E_Key.uexp" 1029
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/InteractPromptWidget.uasset" 1030
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/InteractPromptWidget.uexp" 1031
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Node.ubulk" 1032
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Node.uasset" 1033
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Node.uexp" 1034
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/BP_Node_2.uasset" 1035
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/ResetSystem/BP_Node_2.uexp" 1036
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_TeleportZone.uasset" 1037
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_TeleportZone.uexp" 1038
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_INFO.uasset" 1039
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Player/BP_INFO.uexp" 1040
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/CornerCube.ubulk" 1041
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/CornerCube.uasset" 1042
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/CornerCube.uexp" 1043
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube.ubulk" 1044
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube.uasset" 1045
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube.uexp" 1046
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Pillar.ubulk" 1047
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Pillar.uasset" 1048
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Pillar.uexp" 1049
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_Ramp.ubulk" 1050
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_Ramp.uasset" 1051
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_Ramp.uexp" 1052
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/T_Fire_Tiled_D.ubulk" 1053
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/T_Fire_Tiled_D.uasset" 1054
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/T_Fire_Tiled_D.uexp" 1055
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/Disintigration_Effect.uasset" 1056
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/Disintigration_Effect.uexp" 1057
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/EnemyMetal.uasset" 1058
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/EnemyMetal.uexp" 1059
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/Disintigrationinstance.uasset" 1060
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Effects/Disintigrationinstance.uexp" 1061
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Glow.uasset" 1062
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Glow.uexp" 1063
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Meshes/Nexus_Bots_Mesh_Goon.ubulk" 1064
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Meshes/Nexus_Bots_Mesh_Goon.uasset" 1065
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Meshes/Nexus_Bots_Mesh_Goon.uexp" 1066
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI_Healthbar.uasset" 1067
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI_Healthbar.uexp" 1068
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/QueryPatrolLocation.uasset" 1069
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/QueryPatrolLocation.uexp" 1070
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Enemy_BB.uasset" 1071
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Enemy_BB.uexp" 1072
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_1.ubulk" 1073
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_1.uasset" 1074
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_1.uexp" 1075
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise00.ubulk" 1076
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise00.uasset" 1077
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise00.uexp" 1078
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise000.ubulk" 1079
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise000.uasset" 1080
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise000.uexp" 1081
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Beam_01.ubulk" 1082
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Beam_01.uasset" 1083
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Beam_01.uexp" 1084
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_ABScrollNiagara.uasset" 1085
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_ABScrollNiagara.uexp" 1086
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkProjectile.uasset" 1087
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkProjectile.uexp" 1088
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 1089
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uexp" 1090
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 1091
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uexp" 1092
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 1093
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uexp" 1094
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/VortexForce.uasset" 1095
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/VortexForce.uexp" 1096
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_AdditiveScrollNiagara.uasset" 1097
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_AdditiveScrollNiagara.uexp" 1098
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Projectile_1.uasset" 1099
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Projectile_1.uexp" 1100
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_Simple_Bram.uasset" 1101
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/M_Simple_Bram.uexp" 1102
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector2D.uasset" 1103
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector2D.uexp" 1104
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 1105
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uexp" 1106
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 1107
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uexp" 1108
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 1109
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uexp" 1110
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 1111
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uexp" 1112
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterLifeCycle.uasset" 1113
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterLifeCycle.uexp" 1114
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere.ubulk" 1115
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere.uasset" 1116
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere.uexp" 1117
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 1118
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uexp" 1119
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 1120
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uexp" 1121
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uasset" 1122
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uexp" 1123
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Masks/ConeMask.uasset" 1124
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Masks/ConeMask.uexp" 1125
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 1126
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uexp" 1127
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 1128
+"../../../Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uexp" 1129
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/CurlNoiseForce.uasset" 1130
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/CurlNoiseForce.uexp" 1131
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 1132
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 1133
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/UniformRangedLinearColor.uasset" 1134
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/UniformRangedLinearColor.uexp" 1135
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere_2.ubulk" 1136
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere_2.uasset" 1137
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Fx_Sphere_2.uexp" 1138
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Muzzle.uasset" 1139
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Muzzle.uexp" 1140
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_3.ubulk" 1141
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_3.uasset" 1142
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_3.uexp" 1143
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkProjectile_3.uasset" 1144
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkProjectile_3.uexp" 1145
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Projectile_3.uasset" 1146
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Projectile_3.uexp" 1147
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Hit3.uasset" 1148
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Hit3.uexp" 1149
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Projectile_1.ubulk" 1150
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Projectile_1.uasset" 1151
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Models/SM_Projectile_1.uexp" 1152
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_Tail.ubulk" 1153
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_Tail.uasset" 1154
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Projectile_Tail.uexp" 1155
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Tail_1.uasset" 1156
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Tail_1.uexp" 1157
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Trail_3.ubulk" 1158
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Trail_3.uasset" 1159
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Trail_3.uexp" 1160
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise02.ubulk" 1161
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise02.uasset" 1162
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/Textures/T_Noise02.uexp" 1163
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Tail_3.uasset" 1164
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_Tail_3.uexp" 1165
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/SystemLocation.uasset" 1166
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/SystemLocation.uexp" 1167
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemLifeCycle.uasset" 1168
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemLifeCycle.uexp" 1169
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkTail_3.uasset" 1170
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Materials/MI_DarkTail_3.uexp" 1171
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Projectile3_Small.uasset" 1172
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Fx/Niagara_Systems/NS_Projectile3_Small.uexp" 1173
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_CameraShake01.uasset" 1174
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_CameraShake01.uexp" 1175
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_Projectile_3_Small.uasset" 1176
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_Projectile_3_Small.uexp" 1177
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/TaskShootAtTarget.uasset" 1178
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/TaskShootAtTarget.uexp" 1179
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Ranged_Enemy_BT.uasset" 1180
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Ranged_Enemy_BT.uexp" 1181
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Ranged_Enemy_Controller.uasset" 1182
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/AI/Ranged_Enemy_Controller.uexp" 1183
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Goon_Enemy_BP_new.uasset" 1184
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Goon_Enemy_BP_new.uexp" 1185
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Bridge.ubulk" 1186
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Bridge.uasset" 1187
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_Bridge.uexp" 1188
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_SmallCube.ubulk" 1189
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_SmallCube.uasset" 1190
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks_SmallCube.uexp" 1191
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_EndCube.ubulk" 1192
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_EndCube.uasset" 1193
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_EndCube.uexp" 1194
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Collisions.ubulk" 1195
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Collisions.uasset" 1196
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Collisions.uexp" 1197
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/NodeCube.ubulk" 1198
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/NodeCube.uasset" 1199
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/NodeCube.uexp" 1200
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Pylon.ubulk" 1201
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Pylon.uasset" 1202
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/Pylon.uexp" 1203
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_T-Junction.ubulk" 1204
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_T-Junction.uasset" 1205
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/ExtraBlocks2_T-Junction.uexp" 1206
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube_Chamfer.ubulk" 1207
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1208
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 1209
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Spawner.uasset" 1210
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Enemies/Spawner.uexp" 1211
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel_BuiltData.ubulk" 1212
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel_BuiltData.uasset" 1213
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel_BuiltData.uexp" 1214
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel.uexp" 1215
+"E:/Documents/HDM/Gameplay Programming/Nexus/Content/Levels/MainLevel.umap" 1216
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1217
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1218
+"../../../Engine/Content/Maps/Entry.uexp" 1219
+"../../../Engine/Content/Maps/Entry.umap" 1220
